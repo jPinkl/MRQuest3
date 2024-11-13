@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 6422cf718b82cde4da6bd2bb66c10af0
+timeCreated: 1514805499
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115331
+  packageName: Maestro - Midi Player Tool Kit - Pro
+  packageVersion: 2.9.1
+  assetPath: Assets/MidiPlayer/Scripts/NAudio/PatchChangeEvent.cs
+  uploadId: 582962

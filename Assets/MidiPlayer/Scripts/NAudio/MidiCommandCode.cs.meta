@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 2bfbe0b6b4e45114f87b8fac3109776c
+timeCreated: 1514805499
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115331
+  packageName: Maestro - Midi Player Tool Kit - Pro
+  packageVersion: 2.9.1
+  assetPath: Assets/MidiPlayer/Scripts/NAudio/MidiCommandCode.cs
+  uploadId: 582962

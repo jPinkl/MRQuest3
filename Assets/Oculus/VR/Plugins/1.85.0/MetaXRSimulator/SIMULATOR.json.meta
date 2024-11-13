@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fe26ebf10387402489295d288bdcad49
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82022
+  packageName: Oculus Integration
+  packageVersion: 53.0
+  assetPath: Assets/Oculus/VR/Plugins/1.85.0/MetaXRSimulator/SIMULATOR.json
+  uploadId: 582854
